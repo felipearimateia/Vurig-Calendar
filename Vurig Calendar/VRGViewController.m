@@ -25,13 +25,11 @@
     calendar.delegate=self;
     [self.view addSubview:calendar];
     
-    
-    
 }
 
 -(void)calendarView:(VRGCalendarView *)calendarView switchedToMonth:(int)month targetHeight:(float)targetHeight animated:(BOOL)animated {
     if (month==[[NSDate date] month]) {
-        NSArray *dates = [NSArray arrayWithObjects:[NSNumber numberWithInt:1],[NSNumber numberWithInt:5], nil];
+        NSArray *dates = [NSArray arrayWithObjects:[NSNumber numberWithInt:1],[NSNumber numberWithInt:5], [NSNumber numberWithInt:28], nil];
         [calendarView markDates:dates];
     }
 }

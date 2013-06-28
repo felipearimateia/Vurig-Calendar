@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		892F5252177C7FFA00798080 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 892F5251177C7FFA00798080 /* Default-568h@2x.png */; };
+		892F5257177C882E00798080 /* bt_setadireita.png in Resources */ = {isa = PBXBuildFile; fileRef = 892F5253177C882D00798080 /* bt_setadireita.png */; };
+		892F5258177C882E00798080 /* bt_setadireita@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 892F5254177C882E00798080 /* bt_setadireita@2x.png */; };
+		892F5259177C882E00798080 /* bt_setaesquerda.png in Resources */ = {isa = PBXBuildFile; fileRef = 892F5255177C882E00798080 /* bt_setaesquerda.png */; };
+		892F525A177C882E00798080 /* bt_setaesquerda@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 892F5256177C882E00798080 /* bt_setaesquerda@2x.png */; };
+		892F5260177CA25A00798080 /* img_destaque_dia.png in Resources */ = {isa = PBXBuildFile; fileRef = 892F525C177CA25A00798080 /* img_destaque_dia.png */; };
+		892F5261177CA25A00798080 /* img_destaque_dia@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 892F525D177CA25A00798080 /* img_destaque_dia@2x.png */; };
+		892F5262177CA25A00798080 /* img_evento.png in Resources */ = {isa = PBXBuildFile; fileRef = 892F525E177CA25A00798080 /* img_evento.png */; };
+		892F5263177CA25A00798080 /* img_evento@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 892F525F177CA25A00798080 /* img_evento@2x.png */; };
 		93597E58157523D0004AE766 /* NSDate+convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = 93597E57157523D0004AE766 /* NSDate+convenience.m */; };
 		93597E5C157523EF004AE766 /* NSMutableArray+convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = 93597E5B157523EF004AE766 /* NSMutableArray+convenience.m */; };
 		93597E5F15752414004AE766 /* UIView+convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = 93597E5E15752414004AE766 /* UIView+convenience.m */; };
@@ -23,6 +32,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		892F5251177C7FFA00798080 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		892F5253177C882D00798080 /* bt_setadireita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bt_setadireita.png; path = "../../../../../Downloads/Imgs e Diretriz/Mais/Calendario/bt_setadireita.png"; sourceTree = "<group>"; };
+		892F5254177C882E00798080 /* bt_setadireita@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "bt_setadireita@2x.png"; path = "../../../../../Downloads/Imgs e Diretriz/Mais/Calendario/bt_setadireita@2x.png"; sourceTree = "<group>"; };
+		892F5255177C882E00798080 /* bt_setaesquerda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bt_setaesquerda.png; path = "../../../../../Downloads/Imgs e Diretriz/Mais/Calendario/bt_setaesquerda.png"; sourceTree = "<group>"; };
+		892F5256177C882E00798080 /* bt_setaesquerda@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "bt_setaesquerda@2x.png"; path = "../../../../../Downloads/Imgs e Diretriz/Mais/Calendario/bt_setaesquerda@2x.png"; sourceTree = "<group>"; };
+		892F525C177CA25A00798080 /* img_destaque_dia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = img_destaque_dia.png; path = "../../../../../Downloads/Imgs e Diretriz/Mais/Calendario/img_destaque_dia.png"; sourceTree = "<group>"; };
+		892F525D177CA25A00798080 /* img_destaque_dia@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "img_destaque_dia@2x.png"; path = "../../../../../Downloads/Imgs e Diretriz/Mais/Calendario/img_destaque_dia@2x.png"; sourceTree = "<group>"; };
+		892F525E177CA25A00798080 /* img_evento.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = img_evento.png; path = "../../../../../Downloads/Imgs e Diretriz/Mais/Calendario/img_evento.png"; sourceTree = "<group>"; };
+		892F525F177CA25A00798080 /* img_evento@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "img_evento@2x.png"; path = "../../../../../Downloads/Imgs e Diretriz/Mais/Calendario/img_evento@2x.png"; sourceTree = "<group>"; };
 		93597E56157523D0004AE766 /* NSDate+convenience.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+convenience.h"; sourceTree = "<group>"; };
 		93597E57157523D0004AE766 /* NSDate+convenience.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+convenience.m"; sourceTree = "<group>"; };
 		93597E5A157523EF004AE766 /* NSMutableArray+convenience.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+convenience.h"; sourceTree = "<group>"; };
@@ -65,6 +83,7 @@
 		93664AD5157522BF004EBE25 = {
 			isa = PBXGroup;
 			children = (
+				892F5251177C7FFA00798080 /* Default-568h@2x.png */,
 				93664AEA157522C0004EBE25 /* Vurig Calendar */,
 				93664AE3157522BF004EBE25 /* Frameworks */,
 				93664AE1157522BF004EBE25 /* Products */,
@@ -92,6 +111,14 @@
 		93664AEA157522C0004EBE25 /* Vurig Calendar */ = {
 			isa = PBXGroup;
 			children = (
+				892F525C177CA25A00798080 /* img_destaque_dia.png */,
+				892F525D177CA25A00798080 /* img_destaque_dia@2x.png */,
+				892F525E177CA25A00798080 /* img_evento.png */,
+				892F525F177CA25A00798080 /* img_evento@2x.png */,
+				892F5253177C882D00798080 /* bt_setadireita.png */,
+				892F5254177C882E00798080 /* bt_setadireita@2x.png */,
+				892F5255177C882E00798080 /* bt_setaesquerda.png */,
+				892F5256177C882E00798080 /* bt_setaesquerda@2x.png */,
 				93664B06157522F2004EBE25 /* calendar */,
 				93664AF3157522C0004EBE25 /* VRGAppDelegate.h */,
 				93664AF4157522C0004EBE25 /* VRGAppDelegate.m */,
@@ -185,6 +212,15 @@
 			files = (
 				93664AEF157522C0004EBE25 /* InfoPlist.strings in Resources */,
 				93664AFB157522C0004EBE25 /* VRGViewController.xib in Resources */,
+				892F5252177C7FFA00798080 /* Default-568h@2x.png in Resources */,
+				892F5257177C882E00798080 /* bt_setadireita.png in Resources */,
+				892F5258177C882E00798080 /* bt_setadireita@2x.png in Resources */,
+				892F5259177C882E00798080 /* bt_setaesquerda.png in Resources */,
+				892F525A177C882E00798080 /* bt_setaesquerda@2x.png in Resources */,
+				892F5260177CA25A00798080 /* img_destaque_dia.png in Resources */,
+				892F5261177CA25A00798080 /* img_destaque_dia@2x.png in Resources */,
+				892F5262177CA25A00798080 /* img_evento.png in Resources */,
+				892F5263177CA25A00798080 /* img_evento@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,7 +269,8 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Luiz Claudio Pereira (34A6TTNUWT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Luiz Claudio Pereira (34A6TTNUWT)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -248,6 +285,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PROVISIONING_PROFILE = "DF924E52-25BE-4FD5-953A-4E5C8756ADAB";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DF924E52-25BE-4FD5-953A-4E5C8756ADAB";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -274,6 +313,7 @@
 		93664AFF157522C0004EBE25 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Vurig Calendar/Vurig Calendar-Prefix.pch";
 				INFOPLIST_FILE = "Vurig Calendar/Vurig Calendar-Info.plist";
@@ -285,6 +325,7 @@
 		93664B00157522C0004EBE25 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Vurig Calendar/Vurig Calendar-Prefix.pch";
 				INFOPLIST_FILE = "Vurig Calendar/Vurig Calendar-Info.plist";

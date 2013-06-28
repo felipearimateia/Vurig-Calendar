@@ -35,15 +35,20 @@
     NSArray *markedColors;
 }
 
-@property (nonatomic, retain) id <VRGCalendarViewDelegate> delegate;
-@property (nonatomic, retain) NSDate *currentMonth;
-@property (nonatomic, retain) UILabel *labelCurrentMonth;
-@property (nonatomic, retain) UIImageView *animationView_A;
-@property (nonatomic, retain) UIImageView *animationView_B;
-@property (nonatomic, retain) NSArray *markedDates;
-@property (nonatomic, retain) NSArray *markedColors;
+@property (nonatomic, strong) id <VRGCalendarViewDelegate> delegate;
+@property (nonatomic, strong) NSDate *currentMonth;
+@property (nonatomic, strong) UILabel *labelCurrentMonth;
+@property (nonatomic, strong) UIImageView *animationView_A;
+@property (nonatomic, strong) UIImageView *animationView_B;
+@property (nonatomic, strong) NSArray *markedDates;
+@property (nonatomic, strong) NSArray *markedColors;
 @property (nonatomic, getter = calendarHeight) float calendarHeight;
-@property (nonatomic, retain, getter = selectedDate) NSDate *selectedDate;
+@property (nonatomic, strong, getter = selectedDate) NSDate *selectedDate;
+
+//Custom
+@property (nonatomic, strong) UIView  *viewTitle;
+@property (nonatomic, strong) UIButton *btNextMonth;
+@property (nonatomic, strong) UIButton *btPreviousMonth;
 
 -(void)selectDate:(int)date;
 -(void)reset;
